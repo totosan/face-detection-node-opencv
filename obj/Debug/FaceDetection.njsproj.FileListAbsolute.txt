@@ -1,0 +1,2 @@
+C:\Users\To\Source\Repos\face-detection-node-opencv\obj\Debug\FaceDetection.njsprojResolveAssemblyReference.cache
+C:\Users\To\Source\Repos\face-detection-node-opencv\bin\Microsoft.NodejsTools.WebRole.dll
